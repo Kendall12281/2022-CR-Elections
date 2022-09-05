@@ -1,0 +1,20 @@
+html{
+    background-color: white;
+}
+
+/*Hover navbar*/
+.container .navbar .navbar-nav li .hover-liberacion a:hover{
+    background-color: green;
+}
+.navbar .navbar-nav li .hover-social-democratico a:hover{
+    background-color: #3d5a80;
+}
+.navbar .navbar-nav li .hover-nueva-republica a:hover{
+    background-color: skyblue;
+}
+.navbar .navbar-nav li .hover-unidad-social a:hover{
+    background-color: crimson;
+}
+
+
+
